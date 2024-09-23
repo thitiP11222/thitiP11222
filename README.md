@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thitiP11222
+- 👋 Hi, I’m Thitiporn
 - 👀 I’m interested in Blockchain & FinTech | Web Developer | Cybersecurity Explorer
 - 🌱 I’m currently diving into blockchain technology and web development
 - 📫 How to reach me :
