@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thitiporn
-- 👀 I’m interested in Blockchain & FinTech | Software Development | Cybersecurity Explorer
+- 👋 Hi, I’m Thitiporn (Khing)
+- 👀 I’m interested in Blockchain & FinTech | Software Development | Cybersecurity Explorer | Cloud Computing
 - 📫 How to reach me :
     - LinkedIn: [linkedin.com/in/my-profile](https://www.linkedin.com/in/thitiporn-panthanan-533b90254/)
 - ⚡ Fun fact: I’m a tech enthusiast who enjoys learning about cutting-edge technologies and exploring new ideas in my free time!
